@@ -57,3 +57,7 @@
 
 - Desplegar una aplicación básica en una instancia con red y almacenamiento configurado.
 
+
+
+## Información oficial
+https://docs.oracle.com/es-ww/iaas/Content/GSG/Concepts/baremetalintro.htm
